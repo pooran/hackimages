@@ -68,15 +68,25 @@
     <Content Include="1.jpg" />
     <Content Include="10.jpg" />
     <Content Include="11.JPG" />
+    <Content Include="12.jpg" />
+    <Content Include="13.jpg" />
+    <Content Include="14.jpg" />
+    <Content Include="15.jpg" />
+    <Content Include="16.jpg" />
+    <Content Include="17.jpg" />
+    <Content Include="18.jpg" />
+    <Content Include="19.jpg" />
     <Content Include="2.jpg" />
+    <Content Include="20.jpg" />
+    <Content Include="21.jpg" />
+    <Content Include="22.jpg" />
+    <Content Include="23.jpg" />
     <Content Include="3.jpg" />
     <Content Include="4.jpg" />
     <Content Include="5.jpg" />
-    <Content Include="6.jpeg" />
     <Content Include="7.jpg" />
     <Content Include="8.jpg" />
     <Content Include="9.jpg" />
-    <Content Include="press_releases99.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
