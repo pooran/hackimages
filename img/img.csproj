@@ -91,6 +91,7 @@
     <Content Include="m3.jpg" />
     <Content Include="r1.jpg" />
     <Content Include="r2.jpg" />
+    <Content Include="r3.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
